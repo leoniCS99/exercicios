@@ -19,8 +19,8 @@ Tecnologias utilizadas neste projeto.
 * Git
 
 ## Atividades
-- [Aplicação desktop](https://github.com/leoniCS99/storeShoes)
-- [API](https://github.com/leoniCS99/Api-store)
+- [2 - Aplicação desktop](https://github.com/leoniCS99/storeShoes)
+- [2.4 - API](https://github.com/leoniCS99/Api-store)
 
   ## Authors
 
