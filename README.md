@@ -20,7 +20,7 @@ Tecnologias utilizadas neste projeto.
 
 ## Atividades
 - [Aplicação desktop](https://github.com/leoniCS99/storeShoes)
-- [API](https://nodejs.org/en/)
+- [API](https://github.com/leoniCS99/Api-store)
 
   ## Authors
 
