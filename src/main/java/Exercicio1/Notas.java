@@ -1,4 +1,4 @@
-//QUESTÃO
+package Exercicio1;//QUESTÃO
 //        Leia um valor de ponto flutuante com duas casas decimais. Este valor
 //        representa um valor monetário. A seguir, calcule o menor número de notas
 //        e moedas possíveis no qual o valor pode ser decomposto. As notas
@@ -8,7 +8,7 @@
 
 import java.util.Scanner;
 
-public class Main {
+public class Notas {
     public static void main(String[] args) {
 
         Scanner leitor = new Scanner(System.in);
