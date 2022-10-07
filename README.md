@@ -20,8 +20,11 @@ Tecnologias utilizadas neste projeto.
 
 ## Atividades
 - [1.1 - Notas](https://github.com/leoniCS99/exercicios/blob/main/src/main/java/Exercicio1/Notas.java)
+- [1.2 - Fatorial](https://github.com/leoniCS99/exercicios/blob/main/src/main/java/Exercicio2/Fatorial.java)
 - [2 - Aplicação desktop](https://github.com/leoniCS99/storeShoes)
 - [2.4 - API](https://github.com/leoniCS99/Api-store)
+
+
 
   ## Authors
 
